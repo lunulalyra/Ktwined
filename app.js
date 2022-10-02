@@ -3,7 +3,7 @@ let artworks = [
     artist: 'SHRIMPKIN.SHOP',
     attribution: 'https://www.instagram.com/shrimpkin.shop/',
     image:
-      'https://mail.google.com/mail/u/1?ui=2&ik=5673191f4a&attid=0.1&permmsgid=msg-f:1745608807699338171&th=1839a5f643b653bb&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8peBcol-Bk4b0F_Ilb3-72dasxnzt8GTT3sW0WagMiHueqSe2c5-72MiGFdV6fvVyihs11-QDS8ysLK8BO1oVMVVgldcdT6CHWZhCXz4sGbC_V-LDCLyJcKCU&disp=emb&realattid=1839a5e8b0bb65b46191',
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/Shrimpkin.Shop%20Art.jpg?alt=media&token=cbaffd11-d98a-4cc1-9c30-2dc013e9d0f2',
     title: 'STRAY KIDS',
     subtitle: 'SEUNGMIN',
   },

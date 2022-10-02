@@ -1,11 +1,11 @@
 let artworks = [
-{
-    artist: 'LUNULALYRA',
-    attribution: 'https://www.instagram.com/lunulalyra/',
+    {
+    artist: 'SHRIMPKIN.SHOP',
+    attribution: 'https://www.instagram.com/shrimpkin.shop/',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/freelancektwine.appspot.com/o/BTS%20JUNGkooK%20Lunulalyra.png?alt=media&token=eae3e45a-bd19-4b99-aad1-7ad9309844d7',
-    title: 'BTS',
-    subtitle: 'JUNGKOOK',
+      'https://mail.google.com/mail/u/1?ui=2&ik=5673191f4a&attid=0.1&permmsgid=msg-f:1745608807699338171&th=1839a5f643b653bb&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8peBcol-Bk4b0F_Ilb3-72dasxnzt8GTT3sW0WagMiHueqSe2c5-72MiGFdV6fvVyihs11-QDS8ysLK8BO1oVMVVgldcdT6CHWZhCXz4sGbC_V-LDCLyJcKCU&disp=emb&realattid=1839a5e8b0bb65b46191',
+    title: 'STRAY KIDS',
+    subtitle: 'SEUNGMIN',
   },
   {
     artist: 'LUNULALYRA',
@@ -14,38 +14,6 @@ let artworks = [
       'https://firebasestorage.googleapis.com/v0/b/freelancektwine.appspot.com/o/SKZ%20FELIX%20LUNULALYRA.png?alt=media&token=ae2ffcb0-a8a9-4310-9f36-edeb411bfc8a',
     title: 'STRAY KIDS',
     subtitle: 'FELIX',
-  },
-  {
-    artist: 'LUNULALYRA',
-    attribution: 'https://www.instagram.com/lunulalyra/',
-    image:
-      'https://firebasestorage.googleapis.com/v0/b/freelancektwine.appspot.com/o/AESPA%20WINTER%20Lunulalyra.png?alt=media&token=66363cba-94c8-4904-972c-a8f820f5ed4d',
-    title: 'AESPA',
-    subtitle: 'WINTER',
-  },
-  {
-    artist: 'LUNULALYRA',
-    attribution: 'https://www.instagram.com/lunulalyra/',
-    image:
-      'https://firebasestorage.googleapis.com/v0/b/freelancektwine.appspot.com/o/BLACKPINK%20JENNIE%20Lunulalyra.png?alt=media&token=65a60b23-7a44-4868-a409-4d07851556a2',
-    title: 'BLACKPINK',
-    subtitle: 'JENNIE',
-  },
-  {
-    artist: 'LUNULALYRA',
-    attribution: 'https://www.instagram.com/lunulalyra/',
-    image:
-      'https://firebasestorage.googleapis.com/v0/b/freelancektwine.appspot.com/o/AESPA%20KARINA%20Lunulalyra.png?alt=media&token=28aebd01-6f74-4416-933d-1cbb655a4cd2',
-    title: 'AESPA',
-    subtitle: 'KARINA',
-  },
-  {
-    artist: 'LUNULALYRA',
-    attribution: 'https://www.instagram.com/lunulalyra/',
-    image:
-      'https://firebasestorage.googleapis.com/v0/b/freelancektwine.appspot.com/o/SKZ%20IN%20LUNULALYRA.png?alt=media&token=761bf173-09f0-4670-b38c-b393c170f71a',
-    title: 'STRAY KIDS',
-    subtitle: 'I.N',
   },
 ];
 

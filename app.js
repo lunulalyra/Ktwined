@@ -1,11 +1,4 @@
-let artworks = [{
-    artist: 'Paris Hilton',
-    attribution: 'https://www.instagram.com/lunulalyra/',
-    image:
-      'https://parishilton.com/wp-content/uploads/2022/02/Gg0xtSfA-1800x1025.png',
-    title: 'Goddess',
-    subtitle: 'Paris Hitlon',
-  },
+let artworks = [
 {
     artist: 'LUNULALYRA',
     attribution: 'https://www.instagram.com/lunulalyra/',

@@ -1,4 +1,12 @@
 let artworks = [
+        {
+    artist: 'KTYYART',
+    attribution: 'https://www.instagram.com/ktyyart/',
+    image:
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/Ktyyart.jpeg?alt=media&token=3d8d7b49-f551-4dbc-aeb0-c815ab47565d',
+    title: 'ITZY',
+    subtitle: 'RYUJIN',
+  },
     {
     artist: 'SHRIMPKIN.SHOP',
     attribution: 'https://www.instagram.com/shrimpkin.shop/',

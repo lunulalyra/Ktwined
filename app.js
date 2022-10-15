@@ -35,7 +35,7 @@ let artworks = [
     artist: 'LUNULALYRA',
     attribution: 'https://www.instagram.com/lunulalyra/',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/Fallen%20Gods%20RM%20MID.png?alt=media&token=82a5da57-5158-4b8e-abd8-91ebf922755b',
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/Fallen%20Gods%20RM%201to1%20Half%20(2).png?alt=media&token=e8a25081-c9ca-4397-bab7-dc55b6f6e60a',
     title: 'BTS',
     subtitle: 'RM',
   },

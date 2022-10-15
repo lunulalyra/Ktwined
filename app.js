@@ -1,5 +1,13 @@
 let artworks = [
           {
+    artist: 'MIK.KALI',
+    attribution: 'https://www.instagram.com/mik.kali/',
+    image:
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/Mikeal%202.jpeg?alt=media&token=067c67a2-c6d0-4b7b-88da-0e5a981fa703',
+    title: 'ITZY',
+    subtitle: 'RYUJIN',
+  },
+          {
     artist: 'HWANGBYEOKK',
     attribution: 'https://www.instagram.com/hwangbyeokk/',
     image:
@@ -27,9 +35,9 @@ let artworks = [
     artist: 'LUNULALYRA',
     attribution: 'https://www.instagram.com/lunulalyra/',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/freelancektwine.appspot.com/o/SKZ%20FELIX%20LUNULALYRA.png?alt=media&token=ae2ffcb0-a8a9-4310-9f36-edeb411bfc8a',
-    title: 'STRAY KIDS',
-    subtitle: 'FELIX',
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/Fallen%20Gods%20RM%20MID.png?alt=media&token=82a5da57-5158-4b8e-abd8-91ebf922755b',
+    title: 'BTS',
+    subtitle: 'RM',
   },
 ];
 

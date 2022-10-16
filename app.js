@@ -1,4 +1,12 @@
 let artworks = [
+              {
+    artist: 'ENGLANDTOWNSEND',
+    attribution: 'https://www.instagram.com/englandtownsend/',
+    image:
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/englandtownsend.jpeg?alt=media&token=450c8c52-50a8-4728-bc9d-a5c183ccfdfd',
+    title: 'AESPA',
+    subtitle: 'WINTER',
+  },
           {
     artist: 'MIK.KALI',
     attribution: 'https://www.instagram.com/mik.kali/',

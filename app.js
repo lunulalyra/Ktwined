@@ -1,4 +1,12 @@
 let artworks = [
+                {
+    artist: '_BLOODY_GUTZ_ART_',
+    attribution: 'https://www.instagram.com/_bloody_gutz_art_/',
+    image:
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/_bloody_gutz_art_%201.jpg?alt=media&token=8d33de91-cbe7-4f17-a936-0753ae9fd50b',
+    title: 'STRAY KIDS',
+    subtitle: 'LEE KNOW',
+  },
               {
     artist: 'ENGLANDTOWNSEND',
     attribution: 'https://www.instagram.com/englandtownsend/',

@@ -19,9 +19,9 @@ let artworks = [
     artist: 'MIK.KALI',
     attribution: 'https://www.instagram.com/mik.kali/',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/Mikeal%202.jpeg?alt=media&token=067c67a2-c6d0-4b7b-88da-0e5a981fa703',
-    title: 'ITZY',
-    subtitle: 'RYUJIN',
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/1BC937A8-6AB3-448E-B744-8FBEA8DA8F4C.jpeg?alt=media&token=996cdad5-7da0-460b-bdf5-bf7db65569c1',
+    title: 'NMIXX',
+    subtitle: 'BAE',
   },
           {
     artist: 'HWANGBYEOKK',

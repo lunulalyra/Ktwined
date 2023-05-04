@@ -51,9 +51,9 @@ let artworks = [
     artist: 'LUNULALYRA',
     attribution: 'https://www.instagram.com/lunulalyra/',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/Fallen%20Gods%20RM%201to1%20Half%20(2).png?alt=media&token=e8a25081-c9ca-4397-bab7-dc55b6f6e60a',
-    title: 'BTS',
-    subtitle: 'RM',
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/Godliiike%20Racha%20Han.png?alt=media&token=34cbfdb3-1695-4e53-bcc0-4964b392b96e',
+    title: 'STRAY KIDS',
+    subtitle: 'HAN',
   },
 ];
 

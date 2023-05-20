@@ -1,5 +1,13 @@
 let artworks = [
                 {
+    artist: 'ABTSARTS',
+    attribution: 'https://www.instagram.com/abtsarts/',
+    image:
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/Abtsarts.png?alt=media&token=815c5323-4d16-4b66-828f-afe399b64b18',
+    title: 'TXT',
+    subtitle: 'YEONJUN',
+  },
+                {
     artist: '_BLOODY_GUTZ_ART_',
     attribution: 'https://www.instagram.com/_bloody_gutz_art_/',
     image:

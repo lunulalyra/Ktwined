@@ -1,7 +1,7 @@
 let artworks = [
                   {
     artist: 'IRNART_',
-    attribution: 'https://www.instagram.com/abtsarts/',
+    attribution: 'https://www.instagram.com/irnart_/',
     image:
       'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/Felix%20Ra%20IR052323-1.jpg?alt=media&token=71d7724f-fd02-4ff5-9dce-614985c40d73',
     title: 'STRAY KIDS',

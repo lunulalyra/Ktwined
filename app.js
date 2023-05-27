@@ -1,4 +1,12 @@
 let artworks = [
+                    {
+    artist: 'SUNNYBOKK',
+    attribution: 'https://www.instagram.com/sunnybokk/',
+    image:
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/Untitled23_20230508002450.png?alt=media&token=db1db6e5-508e-4045-95be-4f85505bd817',
+    title: 'STRAY KIDS',
+    subtitle: 'HAN',
+  },
                   {
     artist: 'IRNART_',
     attribution: 'https://www.instagram.com/irnart_/',

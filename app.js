@@ -1,4 +1,28 @@
 let artworks = [
+                                  {
+    artist: 'TXART_22',
+    attribution: 'https://www.instagram.com/txart_22/',
+    image:
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/IMG_20230528_115640.jpg?alt=media&token=2d9511f5-6ce3-402e-9274-79000efe091b',
+    title: 'TXT',
+    subtitle: 'YEONJUN',
+  },
+                                {
+    artist: 'LUMOO143',
+    attribution: 'https://www.instagram.com/lumoo143/',
+    image:
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/Seungmin%F0%9F%91%8C%F0%9F%8F%BC%F0%9F%91%8C%F0%9F%8F%BC.jpg?alt=media&token=07e82066-7acf-421f-b7e3-1ebf193d6bc8',
+    title: 'STRAY KIDS',
+    subtitle: 'SEUNGMIN',
+  },
+                              {
+    artist: 'MARIIXARTT',
+    attribution: 'https://www.instagram.com/mariixartt/',
+    image:
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/CF7945A6-7CCF-4E0C-B8E9-E26FBF5FBC12.jpeg?alt=media&token=d7ca3593-9fab-4908-8842-58c18d17fdd7',
+    title: 'STRAY KIDS',
+    subtitle: 'HYUNJIN',
+  },
                             {
     artist: 'LIVE.LOVE.DRAW97',
     attribution: 'https://www.instagram.com/live.love.draw97/',

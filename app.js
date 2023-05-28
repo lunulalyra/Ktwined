@@ -1,4 +1,36 @@
 let artworks = [
+                            {
+    artist: 'LIVE.LOVE.DRAW97',
+    attribution: 'https://www.instagram.com/live.love.draw97/',
+    image:
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/sketch1684324630331.png?alt=media&token=e09c69b3-8523-487a-aa00-4c08801cc09b',
+    title: 'STRAY KIDS',
+    subtitle: 'BANG CHAN',
+  },
+                          {
+    artist: 'CLUVDII.ARTS',
+    attribution: 'https://www.instagram.com/cluvdii.arts/',
+    image:
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/1684853308650_Myungho.png?alt=media&token=fde097a8-86c2-4b4f-bd1a-04a2d0181f3c',
+    title: '8TURN',
+    subtitle: 'MYUNGHO',
+  },
+                        {
+    artist: 'REVE.SHI_08',
+    attribution: 'https://www.instagram.com/reve.shi_08/',
+    image:
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/IMG_20230519_180632.jpg?alt=media&token=d3a5ef6e-9dbb-4512-a940-14274b1a98a9',
+    title: 'BLACKPINK',
+    subtitle: 'JISOO',
+  },
+                      {
+    artist: 'THEOTHERARTISTE',
+    attribution: 'https://www.instagram.com/theotherartiste/',
+    image:
+      'https://firebasestorage.googleapis.com/v0/b/ktwined-fb270.appspot.com/o/image0.jpeg?alt=media&token=03b82e10-cf43-4910-bbbd-c5298c8a3b5b',
+    title: 'MAMAMOO',
+    subtitle: 'SOLAR',
+  },
                     {
     artist: 'SUNNYBOKK',
     attribution: 'https://www.instagram.com/sunnybokk/',
